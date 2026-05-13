@@ -8601,3 +8601,15 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+body {
+    background: linear-gradient(to bottom, #fdf4ff, #f3e8ff);
+}
+
+#wrapper,
+.wrapper,
+.wrapper.style1,
+.banner,
+.spotlight,
+section {
+    background: transparent !important;
+}
